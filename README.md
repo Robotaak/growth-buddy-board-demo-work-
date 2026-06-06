@@ -143,4 +143,4 @@ This project was built by **Aryan (“robotaak” on GitHub)** as part of a micr
 
 If you’d like a custom version of this dashboard for your coaching or agency business, reach out via:
 - GitHub: https://github.com/robotaak
-- robotaak48@gmail.com
+- Gmail: robotaak48@gmail.com
